@@ -1,0 +1,3 @@
+"exposure","SHR","LCL","UCL","z","p_value","comparator_M2_cox","method","n_total","n_cvd_death","n_noncvd_death"
+"DII per 1-unit",1.04455723614677,0.97461843934211,1.11951485375457,1.23287205589047,0.22,"1.03 (0.96-1.12) cause-specific","Fine-Gray subdistribution hazard",10923,249,642
+"sleep_disorder (>=2)",1.54734987452455,1.17704371343483,2.03415693645238,3.12794110855553,0.0018,"1.62 (1.13-2.32) cause-specific","Fine-Gray subdistribution hazard",10923,249,642

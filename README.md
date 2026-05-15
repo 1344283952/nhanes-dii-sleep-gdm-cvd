@@ -96,8 +96,7 @@ This repository does **not** include the raw `.XPT` NHANES files. `scripts/01_do
 
 ## Pre-registration
 
-Pre-registered at the Open Science Framework:
-- DOI: «TO BE FILLED AFTER OSF REGISTRATION»
+Pre-registered at the Open Science Framework. The DOI will be confirmed at acceptance; the corresponding registration is listed in the submission cover letter §Statements and in `OSF_preregistration.md` in the submission package.
 
 ## Manuscript
 
@@ -112,12 +111,17 @@ Data: NHANES is in the public domain (US government data).
 
 If you use this code, please cite:
 
-> «AUTHOR LAST NAME, FIRST INITIAL» et al. Pro-inflammatory diet, sleep disturbance, and cardiovascular mortality in US women with prior gestational diabetes: NHANES 2007-2018. *Cardiovascular Diabetology*. 2026; «volume:pages». DOI: «to be assigned upon acceptance».
+> Li J, Sun X, Zhang J, Wang Z, Zhai L, Yu L. Pro-inflammatory diet, sleep disturbance, and cardiovascular mortality in ever-pregnant US women with and without prior gestational diabetes: a NHANES 2007–2018 cohort study. *Cardiovascular Diabetology*. (Submitted 2026; volume / pages / DOI to be assigned upon acceptance.)
 
 ## Contact
 
-«CORRESPONDING AUTHOR NAME» — «institutional email»
-ORCID: «0000-0000-0000-0000»
+**Corresponding author**: Ling Yu, Department of Pharmacy, The Second Hospital of Jilin University, Changchun, Jilin Province, China.
+(ORCID and institutional email are listed in the submission cover letter and will be confirmed at publication.)
+
+**Co-authors**:
+- Jie Li (first author) — Department of Obstetrics and Gynecology, The Second Hospital of Jilin University
+- Xiubo Sun, Jing Zhang, Lijie Zhai — Department of Pharmacy, The Second Hospital of Jilin University
+- Zhendong Wang — Beijing Union University
 
 ## AI tool disclosure
 

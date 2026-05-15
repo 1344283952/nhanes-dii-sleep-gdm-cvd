@@ -94,9 +94,9 @@ load("data/processed/nhanes_design.RData") # → nhanes_design, svydesign object
 
 This repository does **not** include the raw `.XPT` NHANES files. `scripts/01_download_data.R` will download them into `data/raw/` (which is `.gitignore`-d).
 
-## Pre-registration
+## Reproducibility
 
-Pre-registered at the Open Science Framework. The DOI will be confirmed at acceptance; the corresponding registration is listed in the submission cover letter §Statements and in `OSF_preregistration.md` in the submission package.
+This repository contains the full analytic pipeline as submitted to *Cardiovascular Diabetology*. All scripts run end-to-end on a clean R 4.6 installation (after `00_install_packages.R`). The mediation analysis uses a fixed seed (`set.seed(20260513)`) for bootstrap reproducibility.
 
 ## Manuscript
 

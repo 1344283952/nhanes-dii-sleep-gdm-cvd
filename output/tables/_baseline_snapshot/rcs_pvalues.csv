@@ -1,0 +1,17 @@
+"exposure","outcome","outcome_type","p_overall","p_nonlinear"
+"DII","all_mortality","cox",0,0
+"sleep_score","all_mortality","cox",0,0
+"DII","cvd_mortality","cox",0,0
+"sleep_score","cvd_mortality","cox",0,0
+"DII","total_cvd","logit",0,0
+"sleep_score","total_cvd","logit",0,0
+"DII","chf","logit",0,0
+"sleep_score","chf","logit",0,0
+"DII","chd","logit",0,0
+"sleep_score","chd","logit",0,0
+"DII","angina","logit",0,0
+"sleep_score","angina","logit",0,0
+"DII","mi","logit",0,0
+"sleep_score","mi","logit",0,0
+"DII","stroke","logit",0,0
+"sleep_score","stroke","logit",0,0

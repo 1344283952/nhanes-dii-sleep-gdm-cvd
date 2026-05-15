@@ -1,0 +1,6 @@
+"exposure","outcome","dataset","year_from","pubmed_count","openalex_count","verdict"
+"dietary inflammatory index","gestational diabetes mortality","NHANES",2020,0,0,"✅ 蓝海（0 篇）→ 可做"
+"DII","gestational diabetes mortality","NHANES",2020,0,0,"✅ 蓝海（0 篇）→ 可做"
+"sleep duration","gestational diabetes mortality","NHANES",2020,0,0,"✅ 蓝海（0 篇）→ 可做"
+"sleep disturbance","gestational diabetes mortality","NHANES",2020,0,0,"✅ 蓝海（0 篇）→ 可做"
+"dietary inflammatory index sleep","gestational diabetes cardiovascular","NHANES",2020,0,0,"✅ 蓝海（0 篇）→ 可做"
